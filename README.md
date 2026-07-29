@@ -41,7 +41,7 @@ The app is built with a strict **Clean Architecture** approach (presentation →
 
 | Export to Excel |
 |---|
-| ![Export](screenshots/export.jpg) |
+| ![Export](screenshots/export.jpg.jpg) |
 
 ---
 
