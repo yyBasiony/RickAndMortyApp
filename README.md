@@ -44,10 +44,6 @@ The app is built with a strict **Clean Architecture** approach (presentation →
 | ![Export](screenshots/export.jpg.jpg) |
 
 ---
-## 🎥 Demo
-
-## 🎥 Demo Video
-
 ## 🎥 Demo Video
 
 [▶️ Watch Demo Video](https://github.com/yyBasiony/RickAndMortyApp/raw/main/video.mp4)
