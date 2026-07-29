@@ -33,9 +33,17 @@ The app is built with a strict **Clean Architecture** approach (presentation →
 
 ## 🖼️ Screenshots
 
-| Splash | Character List | Search | Filters | Export to Excel |
-|---|---|---|---|---|
-| ![Splash](screenshots/splash.jpg) | ![List](screenshots/list.jpg) | ![Search](screenshots/search.jpg) | ![Filters](screenshots/filters.jpg) | ![Export](screenshots/export.jpg) |
+| Splash | Character List |
+|---|---|
+| ![Splash](screenshots/splash.jpg) | ![List](screenshots/list.jpg) |
+
+| Search | Filters |
+|---|---|
+| ![Search](screenshots/search.jpg) | ![Filters](screenshots/filters.jpg) |
+
+| Export to Excel |
+|---|
+| ![Export](screenshots/export.jpg) |
 
 ---
 
@@ -110,6 +118,3 @@ cd <repo-folder>
 flutter pub get
 flutter run
 ```
-
----
-
