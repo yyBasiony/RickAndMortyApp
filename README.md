@@ -49,7 +49,6 @@ The app is built with a strict **Clean Architecture** approach (presentation →
 
 <video src="video.mp4" width="100%" controls></video>
 
-
 ---
 
 ## 🏗️ Architecture
