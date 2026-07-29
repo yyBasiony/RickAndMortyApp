@@ -45,12 +45,7 @@ The app is built with a strict **Clean Architecture** approach (presentation →
 
 ---
 
-## 🎥 Demo Video
-
-<video src="video.mp4" width="100%" controls></video>
-
----
-
+[▶️ Watch Demo Video](https://github.com/yyBasiony/<repo-name>/raw/main/video.mp4)
 ## 🏗️ Architecture
 
 The project follows a feature-first **Clean Architecture** structure:
