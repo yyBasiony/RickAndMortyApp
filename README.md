@@ -48,7 +48,7 @@ The app is built with a strict **Clean Architecture** approach (presentation →
 ## 🎥 Demo Video
 
 
-🔗 [Watch the demo video](#)
+🔗 [RickAndMortyApp/blob/main/video.mp4](#)
 
 ---
 
