@@ -41,7 +41,6 @@ The app is built with a strict **Clean Architecture** approach (presentation →
 
 ## 🎥 Demo Video
 
-> _Add the video link here (e.g. Loom / Google Drive / YouTube unlisted link) showing the app running end-to-end: launching, browsing, searching, filtering, and exporting to Excel._
 
 🔗 [Watch the demo video](#)
 
@@ -114,16 +113,3 @@ flutter run
 
 ---
 
-## 📂 Project Info
-
-- **Task:** Flutter Internship Application Task
-- **Company:** EASY WORLD ESTABLISHMENT DIGITAL MARKETING
-- **API used:** [Rick and Morty API](https://rickandmortyapi.com/documentation)
-
----
-
-## 📝 Notes
-
-- Any external packages used are latest-stable and production-grade.
-- Loading, empty, and error states are handled explicitly across the character list and the export flow.
-- The project avoids code generation entirely, relying on Dart 3 native features (`sealed class`, pattern matching, records where applicable).
