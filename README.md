@@ -1,8 +1,6 @@
 # Rick & Morty Explorer 🛸
 
-A Flutter application that browses, searches, filters, and exports characters from the [Rick and Morty API](https://rickandmortyapi.com/documentation), built as part of the Flutter Internship application task for **EASY WORLD ESTABLISHMENT DIGITAL MARKETING**.
-
----
+A Flutter application that browses, searches, filters, and exports characters from the [Rick and Morty API](https://rickandmortyapi.com/documentation)
 
 ## 📱 Project Description
 
