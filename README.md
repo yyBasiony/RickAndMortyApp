@@ -44,8 +44,9 @@ The app is built with a strict **Clean Architecture** approach (presentation →
 | ![Export](screenshots/export.jpg.jpg) |
 
 ---
+## 🎥 Demo
 
-[▶️ Watch Demo Video](https://github.com/yyBasiony/<RickAndMortyApp>/raw/main/video.mp4)
+[![Watch Demo](screenshots/demo_thumbnail.jpg)](https://raw.githubusercontent.com/yyBasiony/RickAndMortyExplorer/main/video.mp4)
 ## 🏗️ Architecture
 
 The project follows a feature-first **Clean Architecture** structure:
