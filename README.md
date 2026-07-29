@@ -37,7 +37,7 @@ The app is built with a strict **Clean Architecture** approach (presentation →
 
 | Search | Filters |
 |---|---|
-| ![Search](screenshots/search.jpg) | ![Filters](screenshots/filters.jpg) |
+| ![Search](screenshots/search.jpg.jpg) | ![Filters](screenshots/filters.jpg) |
 
 | Export to Excel |
 |---|
